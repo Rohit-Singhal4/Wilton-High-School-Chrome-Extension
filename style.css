@@ -1,0 +1,31 @@
+.header{
+    padding: 5px;
+    text-align: center;
+    background:#070830;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.footer{
+    padding: 10px;
+    background:#070830;
+    color: white;
+    justify-content: space-between;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-size: 15px;
+}
+p1{
+    color: white;
+    text-align: left;
+    font-size: 15px;
+}
+.twitter{
+    position: relative;
+    text-align: right;
+}
