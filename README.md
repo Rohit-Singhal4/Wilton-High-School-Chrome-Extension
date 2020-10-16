@@ -1,1 +1,3 @@
-# Wilton-High-School-Chromw-Extension
+# Wilton-High-School-Chrome-Extension
+
+Description: 
